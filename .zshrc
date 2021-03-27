@@ -109,3 +109,4 @@ alias yt='ytfzf -t'
 alias discord=/home/qw/Apps/Discord/Discord
 
 alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME' 
+fortune
